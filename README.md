@@ -7,5 +7,6 @@ This repository contains the code for a personal web based financial management 
 - CSS
 - Javascript
 - Django
+- MySQL
 
 > **Disclaimer:** The project is under development, and not ready to use as of now.
