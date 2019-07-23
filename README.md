@@ -1,2 +1,2 @@
-# ICE-Tech
+# LegiTech
 Credential and verification
